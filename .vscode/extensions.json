@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "ms-vscode-remote.remote-containers",
+    "msjsdiag.debugger-for-chrome",
+    "felixfbecker.php-debug",
+    "bmewburn.vscode-intelephense-client"
+  ]
+}
